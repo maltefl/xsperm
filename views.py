@@ -45,9 +45,10 @@ def index(request):
         'moan',
         'gaze at the stars',
         'have well formed octuplets',
+	'believers',
         'realize the meaning of life',]
     descriptions = ['hot',
-	'curly', 
+	'curly-haired', 
         'big busted',
         'old', 
 	'experienced',
